@@ -6,7 +6,7 @@ Konane game in Python using Minimax algorithm.
 - Terminal shell
 
 ### Usage
-Run `run-konana.<bat OR sh>` and view the results of each game.
+Run `run-konane.<bat OR sh>` and view the results of each game.
 The simple player will always choose the first valid move it finds and the 
 'Toast Player' will use a minimax algorithm.
 
